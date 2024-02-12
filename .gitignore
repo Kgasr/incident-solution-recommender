@@ -1,0 +1,6 @@
+/venv/
+/.idea/
+/db.sqlite3
+/incident_recommender_app/application/cv.pkl
+/incident_recommender_app/application/model.pkl
+/incident_recommender_app/application/TrainingData/
